@@ -1,8 +1,8 @@
 # forExercise
 Crie um contador de 1 a 10000 que conte apenas os números ímpares.
 
-package aula03.estruturasDeRepeticao;
 
+package aula03.estruturasDeRepeticao;
 public class forFor {
     public static void main(String[] args) {
 
