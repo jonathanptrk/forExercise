@@ -3,7 +3,7 @@ Crie um contador de 1 a 10000 que conte apenas os números ímpares.
 
     package aula03.estruturasDeRepeticao;
     
-    public class forFor {
+    public class ForExercise {
         public static void main(String[] args) {
     
         for (int i = 0; i <= 10000; i++) {
